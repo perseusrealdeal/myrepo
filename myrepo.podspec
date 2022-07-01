@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "myrepo"
+s.name             = "perseus_myrepo"
 s.version          = "0.1"
 s.summary          = "My summary"
 s.description      = "MUST BE LONGER THAN SUMMARY"
