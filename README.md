@@ -1,2 +1,2 @@
 # myrepo
-Learning mastering creating cocoapods
+ STUDY: getting
